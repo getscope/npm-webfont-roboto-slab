@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Roboto Slab';
+  src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'),
+  url('../../fonts/roboto-slab-600-normal.woff2') format('woff2'),
+  url('../../fonts/roboto-slab-600-normal.woff') format('woff'),
+  url('../../fonts/roboto-slab-600-normal.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
